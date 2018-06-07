@@ -1,2 +1,4 @@
-print("jhhjhg")
 kjnhjbhjgbjgb
+"lplppl"
+gdhjgfugfybhbhjqglol
+kokkjjkjo
