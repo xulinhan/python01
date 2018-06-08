@@ -1,5 +1,9 @@
+
 kjnhjbhjgbjgb
 "lplppl"
 gdhjgfugfybhbhjqglol
 kokkjjkjo
-22222kkkkkkk
+22222kkk
+print("jhhjhg")
+print:"lplp"
+ 
